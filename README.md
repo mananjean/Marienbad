@@ -41,7 +41,7 @@ cd Marienbad
 
 4. Compilez les fichiers Java :
 ```
-javac JeuMarienbad.java JeuMarienbadOrdi.java
+javac -d /class JeuMarienbad.java JeuMarienbadOrdi.java
 ```
 
 5. Exécutez le jeu :
